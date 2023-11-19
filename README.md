@@ -1,4 +1,6 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+
 
 <!--
 **Nunchakus888/Nunchakus888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

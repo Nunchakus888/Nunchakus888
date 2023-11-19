@@ -1,11 +1,12 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)](https://git.io/streak-stats)
-
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
-  </picture>
+</picture>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)](https://git.io/streak-stats)
+
 
 <!--
 **Nunchakus888/Nunchakus888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

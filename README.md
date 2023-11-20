@@ -4,7 +4,7 @@
     <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats-delta-eight-59.vercel.app/api?username=Nunchakus888&hide=prs,contribs&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-delta-eight-59.vercel.app/api?username=Nunchakus888&hide=prs,contribs&theme=gruvbox&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-delta-eight-59.vercel.app/))
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)](https://git.io/streak-stats)
 

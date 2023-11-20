@@ -4,9 +4,10 @@
     <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats-2333.vercel.app/api?username=Nunchakus888&hide=prs,contribs&theme=gruvbox&show_icons=true)](https://github-readme-stats-2333.vercel.app)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunchakus888&layout=compact" />
 
 
 <!--

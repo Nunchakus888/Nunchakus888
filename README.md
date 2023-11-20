@@ -14,8 +14,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunchakus888&layout=compact" />
-
 
 <!--
 **Nunchakus888/Nunchakus888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

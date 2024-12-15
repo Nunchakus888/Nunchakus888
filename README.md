@@ -12,9 +12,9 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,dart,go,bash,xml,json,yaml,postgresql,mysql,solidity,sass,graphql,markdown&includeNames=true)]()
+[//]: # ([![GitHub WidgetBox]&#40;https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,dart,go,bash,xml,json,yaml,postgresql,mysql,solidity,sass,graphql,markdown&includeNames=true&#41;]&#40;&#41;)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,nest,tailwind,windi,express,svelte,angular,ionic&includeNames=true)]()
+[//]: # ([![GitHub WidgetBox]&#40;https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,nest,tailwind,windi,express,svelte,angular,ionic&includeNames=true&#41;]&#40;&#41;)
 
 
 <!--

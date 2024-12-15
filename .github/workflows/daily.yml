@@ -2,7 +2,7 @@ name: George's Daily Commit
 
 on:
   schedule:
-    - cron: '8 13 14 15 16'  # Every day at midnight UTC to runs every 7-8 min set cron to '*/1 * * * *'
+    - cron: '40 * * * *'  # Every day at midnight UTC to runs every 7-8 min set cron to '*/1 * * * *'
 
 jobs:
   commit:

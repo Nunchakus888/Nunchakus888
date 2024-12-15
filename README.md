@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)]()
 
 
 <picture>
@@ -11,10 +10,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nunchakus888&theme=transparent&hide_border=true&card_width=1080)]()
 
 
-
-[//]: # ([![GitHub WidgetBox]&#40;https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,dart,go,bash,xml,json,yaml,postgresql,mysql,solidity,sass,graphql,markdown&includeNames=true&#41;]&#40;&#41;)
-
-[//]: # ([![GitHub WidgetBox]&#40;https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,nest,tailwind,windi,express,svelte,angular,ionic&includeNames=true&#41;]&#40;&#41;)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)]()
 
 
 <!--

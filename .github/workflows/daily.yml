@@ -32,7 +32,7 @@ jobs:
           git config --global user.name "George"
           git config --global user.email "nunchakus2012@hotmail.com"
           git add "$FILE"
-          git commit -m "....."
+          git commit -m "I'm not a robot, I'm George, commit number: $NEXT_COUNT"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Nunchakus888/Nunchakus888.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

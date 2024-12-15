@@ -2,7 +2,7 @@ name: George's Daily Commit
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 00:45 UTC = 08:45 SGT, SGT is 8 hours ahead of UTC, S means Singapore Time, U means Coordinated Universal Time
+    - cron: '7 * * * *'  # 00:45 UTC = 08:45 SGT, SGT is 8 hours ahead of UTC, S means Singapore Time, U means Coordinated Universal Time
     # - cron: '18 17 2 1 *'  # 2024-01-02T17:18:19Z
 
 jobs:

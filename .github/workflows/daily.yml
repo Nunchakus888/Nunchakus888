@@ -2,13 +2,13 @@ name: George's Daily Commit
 
 on:
   schedule:
-    - cron: '7 * * * 1'  # Every Monday at 09:00 UTC
-    - cron: '0 7 * * 2' # Every Tuesday at 10:00 UTC
-    - cron: '0 7 * * 3' # Every Wednesday at 11:00 UTC
-    - cron: '7 * * * 4' # Every Thursday at 12:00 UTC
-    - cron: '0 7 * * 5' # Every Friday at 13:00 UTC
-    - cron: '7 * * * 6' # Every Saturday at 14:00 UTC
-    - cron: '7 * * * 0' # Every Sunday at 15:00 UTC
+    - cron: '7 * * * 1' # xx:07
+    - cron: '0 7 * * 2' # 7:00
+    - cron: '0 7 * * 3' # 7:00
+    - cron: '7 * * * 4' # xx:07
+    - cron: '0 7 * * 5' # 7:00
+    - cron: '7 * * * 6' # xx:07
+    - cron: '7 * * * 0' # xx:07
 
     # - cron: '7 * * * *'  # 00:45 UTC = 08:45 SGT, SGT is 8 hours ahead of UTC, S means Singapore Time, U means Coordinated Universal Time
     # - cron: '18 17 2 1 *'  # 2024-01-02T17:18:19Z

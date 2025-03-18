@@ -2,16 +2,17 @@ name: George's Daily Commit
 
 on:
   schedule:
-    - cron: '0 7 * * 1' # xx:07
-    - cron: '0 7 * * 2' # 7:00
-    - cron: '0 7 * * 3' # 7:00
-    - cron: '7 * * * 4' # xx:07
-    - cron: '0 7 * * 5' # 7:00
-    - cron: '7 * * * 6' # xx:07
-    - cron: '7 * * * 0' # xx:07
-
-    # - cron: '7 * * * *'  # 00:45 UTC = 08:45 SGT, SGT is 8 hours ahead of UTC, S means Singapore Time, U means Coordinated Universal Time
-    # - cron: '18 17 2 1 *'  # 2024-01-02T17:18:19Z
+    # 分钟 小时 日期 月份 星期
+    # '0 7 * * 1' - 每周一的 7:00
+    # '0 7 * * 2' - 每周二的 7:00
+    # '0 7 * * 3' - 每周三的 7:00
+    # '7 * * * 4' - 每周四的每小时第7分钟
+    # '0 7 * * 5' - 每周五的 7:00
+    # '7 * * * 6' - 每周六的每小时第7分钟
+    # '7 * * * 0' - 每周日的每小时第7分钟
+    # '7 * * * *' - 每小时的第7分钟
+    # '18 17 2 1 *' - 1月2日 17:18
+    - cron: "17 * * * *"
 
 jobs:
   commit:
